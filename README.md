@@ -16,3 +16,5 @@ https://github.com/caokai001/AGAC-Track1/blob/master/kcao_modify_zq.py
 ### 模型训练及测试
 将数据按照8:2 进行随机分配。使用8份作为测试集，2份作为训练集
 
+### 运行
+sh work.sh
